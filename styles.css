@@ -159,3 +159,152 @@ body {
     color: #333;
     text-align: left;
 }
+.location {
+    display: flex;
+    align-items: center;
+    gap: 5px; 
+}
+.location img {
+    width: 16px; 
+    height: auto;
+}
+.location h6 {
+    margin: 0;
+    font-size: 0.2em; 
+    color: #666; 
+}
+.location h6 {
+    margin: 0;
+}
+.inner-card-container {
+    display: flex; 
+    gap: 40px; 
+    justify-content: center;
+    width: 100%;
+    height: 12em;
+}
+.card-white{
+    background-color: #fff;
+    justify-content: flex-end;
+    gap: 80px;
+    padding: 40px 32px 48px;
+    flex: 1;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-shadow: 10px 26px 150px #4342631a; 
+}
+.best{
+    text-align: left;
+    font-size: 1em;
+    font-family: "gilda display";
+    color: #343333;
+    width: 80%;
+    padding: 20px;
+    padding-top:20px;
+    margin-top: 100px;
+    transform: translateY(50%);
+}
+.p{
+    font-family: "urbanist";
+    font-size: 0.5em;
+    color: #6c757d;
+}
+.guide{
+    text-align: left;
+    font-size: 1em;
+    font-family: "gilda display";
+    color: #FFFFFF;
+    width: 80%;
+    padding: 20px;
+    padding-top:20px;
+    margin-top: 100px;
+    transform: translateY(50%);
+}
+.p2{
+    font-family: "urbanist";
+    font-size: 0.5em; 
+}
+.always{
+    text-align: left;
+    font-size: 1em;
+    font-family: "gilda display";
+    color: #343333;
+    width: 80%;
+    padding: 20px;
+    padding-top:20px;
+    margin-top: 100px;
+    transform: translateY(50%);
+}
+.p3{
+    font-family: "urbanist";
+    font-size: 0.5em;
+    color: #6c757d;
+}
+.inner-card-container {
+    display: flex; 
+    gap: 40px; 
+    justify-content: center;
+    width: 100%;
+    height: 12em;
+}
+.card-white{
+    background-color: #fff;
+    justify-content: flex-end;
+    gap: 80px;
+    padding: 40px 32px 48px;
+    flex: 1;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-shadow: 10px 26px 150px #4342631a; 
+}
+.best{
+    text-align: left;
+    font-size: 1em;
+    font-family: "gilda display";
+    color: #343333;
+    width: 80%;
+    padding: 20px;
+    padding-top:20px;
+    margin-top: 100px;
+    transform: translateY(50%);
+}
+.p{
+    font-family: "urbanist";
+    font-size: 0.5em;
+    color: #6c757d;
+}
+.guide{
+    text-align: left;
+    font-size: 1em;
+    font-family: "gilda display";
+    color: #FFFFFF;
+    width: 80%;
+    padding: 20px;
+    padding-top:20px;
+    margin-top: 100px;
+    transform: translateY(50%);
+}
+.p2{
+    font-family: "urbanist";
+    font-size: 0.5em; 
+}
+.always{
+    text-align: left;
+    font-size: 1em;
+    font-family: "gilda display";
+    color: #343333;
+    width: 80%;
+    padding: 20px;
+    padding-top:20px;
+    margin-top: 100px;
+    transform: translateY(50%);
+}
+.p3{
+    font-family: "urbanist";
+    font-size: 0.5em;
+    color: #6c757d;
+}
