@@ -16,6 +16,11 @@ Live Demo
 Check it out here:  
 [https://manarleeman.github.io/travel-website/](https://manarleeman.github.io/travel-website/)
 
+Loom Walkthrough
+
+Watch the video walkthrough here:  
+Coming soon — will be added after recording.
+
 Features
 
 - Mobile-first responsive design  
@@ -32,6 +37,14 @@ Features
 Setup
 
 To run locally:
+## 👩🏽‍💻 Author
+
+Aisha Liman  
+Front-end web developer passionate about building clean and responsive user interfaces.  
+📍 Based in Kano, Nigeria  
+📧 Email: manarleeman@gmail.com  
+💻 GitHub: [@manarleeman](https://github.com/manarleeman)  
+
 
 ```bash
 git clone https://github.com/manarleeman/travel-website.git
