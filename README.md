@@ -1,3 +1,7 @@
+ feature-1
+# travel-website
+this  here is my travel website
+
 🌍 Travel Website – Desktop & Mobile View
 
 Welcome to the Travel Website project! This is a responsive landing page built using HTML and CSS, designed to work well on both desktop and mobile screens. It’s based on a Figma design and aimed at helping users explore destinations and plan their next adventure.
@@ -51,3 +55,4 @@ git clone https://github.com/manarleeman/travel-website.git
 cd travel-website
 open index.html
 
+ development
