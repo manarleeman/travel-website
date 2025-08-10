@@ -19,7 +19,7 @@ Check it out here:
 Loom Walkthrough
 
 Watch the video walkthrough here:  
-Coming soon — will be added after recording.
+[Coming soon — will be added after recording](https://www.loom.com/share/367548275d434e09bdaa80e4f8ad6165?sid=74002e63-5946-466b-819d-9c54dbb93981)
 
 Features
 
